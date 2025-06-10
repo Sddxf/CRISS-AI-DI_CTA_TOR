@@ -12,7 +12,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "CRISS-AI-MZYHXDDB#OWNCQiBKpOvIdWX9wTOZSF2tHI7b2a0nDoXMNtKJbPs"
     },  
     
     "STICKER_NAME": {
@@ -88,13 +88,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴄʀɪss ᴠᴇᴠᴏ"
+      "value": "DI_CTA_TOR🤞🍀"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255766263739"
+      "value": "254741654933"
 
     }, 
 
@@ -108,14 +108,14 @@
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
 
      "ANTI_LINK_KICK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
